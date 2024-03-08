@@ -1,3 +1,4 @@
 working onn local repo
 Hello world new change
 Updated for merge commit
+working in rebase
