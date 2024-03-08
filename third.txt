@@ -3,3 +3,4 @@ hey there
 working for fast forward
 
 hey
+Updated for merge commit
